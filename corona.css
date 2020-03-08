@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+iframe {
+    margin-left: 250px;
+    margin-top: 20px;
+}
